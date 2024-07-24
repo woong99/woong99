@@ -37,6 +37,12 @@
 
 # 🧐  About Me
 
-[![Google Drive](https://img.shields.io/badge/정웅교&nbsp;경력기술서-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1lSUXaXuFSYzSqiMyFnHKRmzIFRRQwewO/view)
-[![Notion](https://img.shields.io/badge/노션&nbsp;자기소개서-white.svg?style=for-the-badge&logo=notion&logoColor=black)](https://quill-peanut-a54.notion.site/528af77b35204b578bc29064332e74ea)
-[![Velog](https://img.shields.io/badge/포테이토웅의&nbsp;기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@woong99/posts)
+<a href="https://drive.google.com/file/d/1lSUXaXuFSYzSqiMyFnHKRmzIFRRQwewO/view" target="_blank">
+    <img src="https://img.shields.io/badge/정웅교&nbsp;경력기술서-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="경력기술서"/>
+</a>
+<a href="https://quill-peanut-a54.notion.site/528af77b35204b578bc29064332e74ea" target="_blank">
+    <img src="https://img.shields.io/badge/노션&nbsp;자기소개서-white.svg?style=for-the-badge&logo=notion&logoColor=black" alt="노션 자기소개서"/>
+</a>
+<a href="https://velog.io/@woong99/posts" target="_blank">
+    <img src="https://img.shields.io/badge/포테이토웅의&nbsp;기술블로그-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="포테이토웅의 기술블로그"/>
+</a>
