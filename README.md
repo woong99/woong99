@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome!%20😃&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D4A373&height=200&section=header&text=PotatoWoong%20Github!%20🥔&fontSize=40&animation=fadeIn)
 
 
-#### 안녕하세요. 백엔드 개발자 정웅교입니다 ✨
+#### 안녕하세요. 끝없이 탐구하는 백엔드 개발자 정웅교입니다 ✨
 
 
 # ⚡️ Skills
